@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - I'm currently studying **Visual Computing**
 - I’m currently learning **Machine learning**
-- How to reach me  **<a href = "mailto:anisbouaza2399@gmail.com"> anisbouaza2399@gmail.com </a>**
+- How to reach me  <strong><a href = "mailto:anisbouaza2399@gmail.com"> anisbouaza2399@gmail.com </a>**</strong>
