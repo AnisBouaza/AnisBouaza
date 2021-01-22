@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 📝 About me :
-##
+
 
 - 📙 I'm currently studying **Visual Computing**
 - 🌱 I’m currently learning **Machine learning**
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 ## 🔧 Technologies & tools :
-##
+
