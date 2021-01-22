@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📝 About me
+### 📝 About me :
 ##
 
 - 📙 I'm currently studying **Visual Computing**
