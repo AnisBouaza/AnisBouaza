@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Machine learning**
 - 📫 How to reach me  <strong><a href = "mailto:anisbouaza2399@gmail.com"> anisbouaza2399@gmail.com </a></strong>
 - 📄 Know about my experience <a href = "https://www.linkedin.com/in/anis-bouaza-589831203/" rel = "nofollow"> On my linked in </a>
+
+### 📝 Technologies and tools :
+##
