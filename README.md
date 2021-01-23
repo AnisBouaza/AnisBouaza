@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnisBouaza&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisBouaza&layout=compact)](https://github.com/AnisBouaza)
+
